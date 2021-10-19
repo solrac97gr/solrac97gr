@@ -3,12 +3,13 @@
 
 # Hello World! I am Carlos García 💻
 
-I am always ready to accept suggestions and improvements for my personal projects. Send me a pull request if you want to collaborate with any of my projects.if i'm inspired i write about how to use technology to [improve marketing](https://carlosgrowth.com/blogs)
+I am always ready to accept suggestions and improvements for my personal projects. Send me a pull request if you want to collaborate with any of my projects.if i'm inspired i write about how to use technology to improve marketing
 
-- 🔭 I'm currently working as a Software Engineer at [Herounit](https://herounit.io/)
+- 🔭 I'm currently working as a Software Engineer at [Bayonet](https://bayonet.io/)
 - :earth_americas: I'm from Talara, Perú
 - :video_game: I like to play video games
 - :notes: I like to play guitar
+- 📍Currently living in Kazan, Russia 🇷🇺
 
 <a href="https://github.com/solrac97gr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrac97gr&hide=css,html,php" /></a>&nbsp;<a href="https://github.com/solrac97gr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=solrac97gr&show_icons=true&theme=default&line_height=27" alt="solrac97gr's github stats" /></a>
 
