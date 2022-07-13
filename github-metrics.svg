@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1675" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1641" class="">
     <defs>
         <style/>
     </defs>
@@ -1520,6 +1520,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">solrac97gr/carlos.lat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7576304</div>
+                                        <div class="message">new post</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">solrac97gr/carlos.lat</span>
                                     </div>
@@ -1587,36 +1607,6 @@ edit post link add</div>
                                 <div class="details">
                                     <div> in <span class="repo">solrac97gr/carlos.lat</span></div>
                                     <div>9 files changed <span class="code">++27 --9</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">solrac97gr/carlos.lat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">40-add-link-for-edit-article</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6f5c9ab</div>
-                                        <div class="message">edit post link add</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5473452</div>
-                                        <div class="message">Merge pull request #41 from solrac97gr/29-link-de-github-en-las-redes-y-remover-instagram
-
-adding link for github</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f13ea84</div>
-                                        <div class="message">adding link for github</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1870,7 +1860,7 @@ adding link for github</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2022, 13:03:55 (timezone Europe/Moscow) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Jul 2022, 14:03:35 (timezone Europe/Moscow) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
