@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1575" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1525" class="">
     <defs>
         <style/>
     </defs>
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 155 repositories
+                            Starred 156 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1526,6 +1526,19 @@
                                     </svg>
                                     <div class="content">
                                         Starred
+                                        <span class="repo">CodelyTV/eslint-plugin-hexagonal-architecture</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
                                         <span class="repo">gofiber/cli</span>
                                     </div>
                                 </div>
@@ -1598,54 +1611,6 @@ updated-dependencies:
 - dependency-name: loader-utils
   dependency-type: indirect
 - dependency-name: react-scripts
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">solrac97gr/web-Carlos-Growth</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f70a5fe</div>
-                                        <div class="message">Merge pull request #10 from solrac97gr/dependabot/npm_and_yarn/loader-utils-and-nuxt-1.4.2
-
-Bump loader-utils and nuxt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2917b8a</div>
-                                        <div class="message">Bump loader-utils and nuxt
-
-Bumps [loader-utils](https://github.com/webpack/loader-utils) to 1.4.2 and updates ancestor dependency [nuxt](https://github.com/nuxt/framework). These dependencies need to be updated together.
-
-
-Updates `loader-utils` from 1.2.3 to 1.4.2
-- [Release notes](https://github.com/webpack/loader-utils/releases)
-- [Changelog](https://github.com/webpack/loader-utils/blob/v1.4.2/CHANGELOG.md)
-- [Commits](https://github.com/webpack/loader-utils/compare/v1.2.3...v1.4.2)
-
-Updates `nuxt` from 2.10.2 to 2.15.8
-- [Release notes](https://github.com/nuxt/framework/releases)
-- [Commits](https://github.com/nuxt/framework/commits)
-
----
-updated-dependencies:
-- dependency-name: loader-utils
-  dependency-type: indirect
-- dependency-name: nuxt
   dependency-type: direct:production
 ...
 
@@ -1904,7 +1869,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Dec 2022, 01:03:52 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 9 Dec 2022, 02:03:57 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
