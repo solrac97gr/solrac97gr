@@ -1709,7 +1709,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 834k out of 141m users</span>
+                                    <span class="gh">ranked 834k out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">46</div>
                                     </div>
@@ -1727,7 +1727,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.83333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1749,10 +1749,10 @@
                                     <span class="prefix">Great</span>
                                     gister
                                     <div class="value-wrapper">
-                                        <div class="value">31</div>
+                                        <div class="value">32</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 31 gists</div>
+                                <div class="text">Published 32 gists</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1831,7 +1831,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Aug 2024, 14:11:36 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Aug 2024, 15:24:23 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
