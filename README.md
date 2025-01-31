@@ -25,8 +25,6 @@ Here are some of the projects I've been working on:
 I'm always open to collaboration and discussions. You can reach out to me through the following platforms:
 
 - **Instagram:** [carlos97cgr](https://www.instagram.com/carlos97cgr/)
-- **Twitter:** [carlosgrowth](https://twitter.com/carlosgrowth)
 - **LinkedIn:** [carlos97gr](https://www.linkedin.com/in/carlos97gr/)
-- **Dribbble:** [solrac97gr](https://dribbble.com/solrac97gr)
 
 Looking forward to connecting with you!
