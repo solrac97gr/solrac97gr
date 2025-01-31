@@ -1,6 +1,12 @@
-# 👋 Hello, I'm Carlos García Rosales (solrac97gr)
+# 👋 Hello, I'm Carlos García (solrac97gr)
 
-**Location:** Spain
+<a href="https://carlos.lat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=solrac97gr&show_icons=true" />
+</a>
+<a href="https://carlos.lat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=solrac97gr&layout=compact&langs_count=8&hide=javascript,html,css,mdx&card_width=320" />
+</a>
+
 
 **Current Status:** Working from Home!
 
