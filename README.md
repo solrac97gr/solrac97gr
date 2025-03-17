@@ -16,7 +16,6 @@ I am a passionate software developer with a focus on building robust and efficie
 
 I'm always open to collaboration and discussions. You can reach out to me through the following platforms:
 
-- **Instagram:** [carlos97cgr](https://www.instagram.com/carlos97cgr/)
 - **LinkedIn:** [carlos97gr](https://www.linkedin.com/in/carlos97gr/)
 
 Looking forward to connecting with you!
