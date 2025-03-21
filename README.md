@@ -12,10 +12,4 @@
 
 I am a passionate software developer with a focus on building robust and efficient applications. I am always ready to accept suggestions and improvements for my personal projects. Feel free to send me a pull request if you want to collaborate with me.
 
-## 📫 Let's Connect
-
-I'm always open to collaboration and discussions. You can reach out to me through the following platforms:
-
-- **LinkedIn:** [carlos97gr](https://www.linkedin.com/in/carlos97gr/)
-
 Looking forward to connecting with you!
